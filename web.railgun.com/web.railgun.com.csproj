@@ -20,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -411,6 +412,7 @@
     <Content Include="images\footer\footer.png" />
     <Content Include="images\footer\home-man.png" />
     <Content Include="images\footer\portfolio.png" />
+    <Content Include="images\footer\railgun177w.png" />
     <Content Include="images\footer\recent-post\1.jpg" />
     <Content Include="images\footer\recent-post\2.jpg" />
     <Content Include="images\footer\services.png" />
@@ -445,6 +447,8 @@
     <Content Include="images\lightbox\01.jpg" />
     <Content Include="images\lightbox\02.jpg" />
     <Content Include="images\lightbox\shop.jpg" />
+    <Content Include="images\logos\Railgun.it-logo-with-man-blue.jpg" />
+    <Content Include="images\logos\Railgun.it-logo-with-man-blue.png" />
     <Content Include="images\logos\railLogo.png" />
     <Content Include="images\menu\item-01.jpg" />
     <Content Include="images\menu\item-02.jpg" />
@@ -568,6 +572,7 @@
     <Content Include="images\ProjectImages\GrindGecko\graphic1.jpg" />
     <Content Include="images\ProjectImages\GrindServices\graphic1.jpg" />
     <Content Include="images\ProjectImages\GrindServices\graphic2.jpg" />
+    <Content Include="images\ProjectImages\HKWhite\graphic1.jpg" />
     <Content Include="images\ProjectImages\IRDataCap\graphic1.jpg" />
     <Content Include="images\ProjectImages\IRDC\graphic1.jpg" />
     <Content Include="images\ProjectImages\IRDiary\graphic1.jpg" />
@@ -586,6 +591,7 @@
     <Content Include="images\ProjectLogos\Gecko\logo.png" />
     <Content Include="images\ProjectLogos\GrindSD\logo.jpg" />
     <Content Include="images\ProjectLogos\Grind\logo.png" />
+    <Content Include="images\ProjectLogos\HK White\logo.jpg" />
     <Content Include="images\ProjectLogos\IR\logo.png" />
     <Content Include="images\ProjectLogos\Newlaw\logo.jpg" />
     <Content Include="images\ProjectLogos\PHR\logo.png" />
@@ -751,6 +757,7 @@
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
     <Content Include="Scripts\_references.js" />
+    <Content Include="videos\Railgin.it-Explainer-Video.mp4" />
     <Content Include="videos\Railgun Promo Video 3.MOV" />
     <Content Include="videos\movie.mp4.txt" />
     <Content Include="videos\Railgun Video 2.mp4" />

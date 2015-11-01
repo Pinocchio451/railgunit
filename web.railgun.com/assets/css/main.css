@@ -105,6 +105,7 @@ Tags: html, template, Focuz
 *		17.7.2 - Cart Widget
 *		17.7.3 - Column Styles
 *		17.7.4 - Client review  
+
 ---------------------------------------------------------------------- */
 
 
@@ -136,6 +137,7 @@ html,body {
 	margin: 0 !important;
 	clear: both;
 }
+
 
 a {
 	color: #00a1cb;
@@ -960,7 +962,7 @@ h6.stripe-over:before {
 }
 .focuz-main-slider .ms-skin-default .ms-nav-next, 
 .focuz-main-slider .ms-skin-default .ms-nav-prev { 
-	background:rgba(255,255,255,.8);
+    background:rgba(255,255,255,.8);
 	width: 50px;
 	height: 50px;
 	-webkit-transition: all .25s ease;
@@ -5893,7 +5895,17 @@ article.post .entry-meta.left-meta .entry-date {
 }
 /* 17.7.4 - Client review End
 ---------------------------*/
+/* 17.7.5 - Explainer video
+---------------------------*/
+.explainer-video {
+    float:right;
+}
+
+
+
 /* 17.7 - Shppoing Cart Page End
 ---------------------------------------------*/ 
+
+
 /* 17 - Pages End
 ---------------------------------------------------------------------- */ 
